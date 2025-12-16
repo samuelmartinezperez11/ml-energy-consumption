@@ -1,0 +1,7 @@
+pieza,tiempo_operacion,energia_consumida,operaciones_fallidas
+manivela,30,10,0
+palanca,60,20,1
+rueda,55,15,2
+cpu,80,25,1
+engranaje,45,12,0
+direccion,20,8,0
