@@ -80,20 +80,11 @@ How to Run the Project
 
    python src/train_model.py
 
---------------------------------------------------
-Project Structure
---------------------------------------------------
-ml-energy-consumption-prediction/
-│
-├── data/
-│   └── piezas.csv
-│
-├── src/
-│   └── train_model.py
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
+ Visualization
+
+The project includes data visualization to compare real energy consumption
+against model predictions using Matplotlib.
+
 
 
 
