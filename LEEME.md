@@ -58,20 +58,11 @@ Resultados del modelo:
 
 El valor de R² indica que el modelo explica aproximadamente el 94% de la variabilidad de los datos, lo cual es un buen resultado para un dataset pequeño.
 
---------------------------------------------------
-ESTRUCTURA DEL PROYECTO
---------------------------------------------------
-ml-energy-consumption-prediction/
-│
-├── data/
-│   └── piezas.csv
-│
-├── src/
-│   └── train_model.py
-│
-├── requirements.txt
-├── .gitignore
-└── README.md
+ Visualization
+
+The project includes data visualization to compare real energy consumption
+against model predictions using Matplotlib.
+
 
 
 CÓMO EJECUTAR EL PROYECTO
@@ -94,6 +85,7 @@ AUTOR
 Samuel Martinez  
 Estudiante de Ingeniería Mecatrónica  
 Interesado en Machine Learning, Data Analysis e Inteligencia Artificial aplicada a la ingeniería
+
 
 
 
