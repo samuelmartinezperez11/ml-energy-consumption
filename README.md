@@ -70,9 +70,7 @@ Results
 
 How to Run the Project
 
-1. Clone the repository:
-
-   git clone https://github.com/YOUR_USERNAME/ml-energy-consumption-prediction.git
+1. Clone the repository
 
 2. Install dependencies:
 
