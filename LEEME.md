@@ -86,13 +86,7 @@ CÓMO EJECUTAR EL PROYECTO
 
    python src/train_model.py
 
-PRÓXIMAS MEJORAS
 
-- Visualización de datos con matplotlib
-- Separación de datos de entrenamiento y prueba
-- Uso de más variables
-- Implementación de otros modelos de regresión
-- Documentación más detallada del proceso
 
 --------------------------------------------------
 AUTOR
@@ -100,5 +94,6 @@ AUTOR
 Samuel Martinez  
 Estudiante de Ingeniería Mecatrónica  
 Interesado en Machine Learning, Data Analysis e Inteligencia Artificial aplicada a la ingeniería
+
 
 
